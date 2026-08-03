@@ -1,0 +1,12 @@
+<5주차 필기>
+
+리텐션 정의
+-> 유ㅣㅇㅂ, 구ㅐㅁ, 구독, 특정 페이지 방문, 특정 이벤트 (hit, event)
+
+유저 상태
+-> New User / Active User / Inactive User / Dormant User / Resurrected User
+
+리텐션 종류
+1. Unbouded 누적 리텐션 : 여행, 부동산, 금융 대출 서비스
+2. N-Day (기본 린텐션) : 카카오톡, 인스타그램
+3. Bracket Retention (구간 리텐션) : 슬랙, 노션 

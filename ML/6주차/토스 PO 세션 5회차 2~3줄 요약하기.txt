@@ -1,0 +1,23 @@
+바이럴 성장이란 무엇인가?
+
+라플라스 악마 : 수학으로 (숫자로) 미래를 예측할 수 있다.
+
+데이터 그로쓰 : inflow - outflow - 들어오는 유저와 나가는 유저
+inflow :  new(Organic) / Resurrection , skeptics (Organic) / Paid / Viral
+
+* Organic은 자연스럽게 서비스를 이용하고자 사용자가 들어온다.
+* Resurrection : 돌아섰던 유저가 다시 돌아와 사용하는 현상.
+* Referral - CC에 영향을 미친다. -> Trackable초대에 영향을 주며 Viral Growth를 예측할 수 있다.
+* Paid Marketing - CC에 영향을 못 미친다. -> Volume / Conv% / Budget(Cost)
+
+Network Effect : MAU가 증가할 수록 Recurring Value가 증가하고, CC의 무한 성장이 가능하다.
+ex). 모든 서비스들이 소셜미디어, 커뮤니티, SNS적 기능이 있는 이유이다.
+-> 사용자에게 사용하려는 욕구를 불러일으켜 지속적이 이용을 가능하도록한다.
+
+Viral Growth
+신규 유저가 새로운 유저를 데리고 오는 수치
+1명이 몇명을 데리고 오나? 2명이면 2 / 3명이면 3
+
+Viral K가 1이면 지속적으로 성장한다. // 연속적인 수치이며, 상수형이라 수치를 계산할 수 있다.
+-> Viral K는 1이 될 수 없다.
+ 

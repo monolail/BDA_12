@@ -1,0 +1,65 @@
+2주차 필기
+<2주차 교안>
+https://jmin-data.notion.site/JU-DATA-BDA-12-Amplitude-2-324f010860a080bda24bdb6f7da9cbe4
+
+Growth Loop
+: 제품이 스스로 성장하는 구조를 설명하는 모델
+
+Input -> Action -> Output
+
+Input : 유저 유입 또는 초기 자원
+Action : 사용자가 제품에서 수행하는 행동
+Output : 행동의 결과로 생성되는 가치
+
+OKR : 조직이나 팀이 일정 기간 동안 달성하고자 하는 목표와 핵심 결과를 설정하는 프레임 워크
+Objective : 달성하고 싶은 목표
+Key Results : 목표달성여부를 측정하기 위한 지표
+
+KPI 지표 : 비즈니스 성과를 측정하는 핵심 지표
+-> 회사 별 연도, 분기, 프로젝트로 변경될 수 있다.
+Specific / Measeruable / Achievable / Relevant / Time-bound
+
+정성지표 VS 정량 지표
+
+정성 지표 : 사용자의 의견이나 경험을 기반으로 하는 데이터이다.
+- 인터뷰, 설문 조사 데이터 -> NPS 활용해서 정량화
+
+정량 지표 : 사용자의 행동을 숫자나 비율을 표현한 데이터이다.
+- 전년 대비 매출 30% 증대
+- 기준이 무엇인지 표현해야한다.
+
+선행 지표 VS 후행 지표
+
+선행 지표 : 미래 성과에 영향을 줄 가능성이 높은 지표
+- 신규 가입 수, 체험 시작률
+
+후행 지표 : 이미 변화가 발생한 후에 반영되는 지표
+- 매출, 유료 구독자 수 , 리텐션
+
+상대 지표 VS 절대 지표
+
+상대 지표 : 이미 변화가 발생한 후에 반영되는 지표
+- 다른 기준과 비교하는 지표
+- 경쟁사 대비 점유율
+
+절대 지표 : 특정 시점의 단순 수치
+- 총 매출, 총 사용자 수
+
+좋은 지표 VS 나쁜 지표
+- 좋은 지표 : 어떤 해동을 해야 하는지 판단할 수 있는지표
+
+- 나쁜 지표(허무 지표) : 실제로 성과를 측젛아는데 도움이 되지 않는 지표를 말한다.
+
+북극성 지표(NSM)
+: 북극성 지표는 다양한 산업에서 활용되며, 산업과 주요 비즈니스 모델에 따라 자주 발생하는 문제와 핵심 지표가 달라진다.
+ex ). Netflix : 총 시청 기간, Airbnb : 예약된 숙박 수, Spotify : 음악 청취 시간, Slack : 메시지 전송 수
+
+목표 : 고객에게 제공할 가치는 무엇인가?  비즌를 잘 측정할 수 있는 방법과 지표는 무엇인가?
+- Revenue / Customer Growth / Consumption Growth / Engagement Growth / Growth efficiency / User experience
+
+PMF (Product Market Fit)
+: 제품이 시장의 문제를 잘 해결할 수 있는 상태를 의미한다.
+
+- 측정 방법 : 재방문율(Retention), 숀 엘리스 테스트(Sean Ellis Test), NPS, 북극성 지표
+
+- Retention 그래프 : 유지되는 구간 : Retention Plateau
